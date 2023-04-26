@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu perfil! Me chamo Iris Helen
+### Seja bem vindo ao meu perfil! 
 
 - 🪪 Estou cursando Engenharia de Software
 - 👩‍💻 Busco desenvolver e aprender com os outros
