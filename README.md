@@ -4,8 +4,6 @@
 - 👩‍💻 Busco desenvolver e aprender com os outros
 - 🌇 Procuro oportunidades para adquirir experiência na área
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Iris-Helen&show_icons=true&theme=radical)
-
 <div style="display: inline_block"><br>
 <img align="center" alt="Iris-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
